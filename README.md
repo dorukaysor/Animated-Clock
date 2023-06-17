@@ -1,2 +1,4 @@
-# Animated-Clock
-An animated digital clock! It used to be my first project practical when I was starting to learn Web Developement...
+## An Animated Digital Clock
+
+Click here to be directed to the website!
+![Clock]()](https://digital-clock.dorukaysor.work.gd/)
